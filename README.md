@@ -6,3 +6,4 @@
 
 - Netlify functions (Serverless Functions) for backend authentication
 
+Live demo: https://netlify-identity-auth-demo.netlify.app/
