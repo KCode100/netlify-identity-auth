@@ -6,7 +6,6 @@ import { useContext, useEffect, useState } from "react";
 const Page = () => {
   const { user, authReady, login } = useContext(AuthContext)
   const [error, setError] = useState(null)
-  const [isUser, setIsUser] = useState(false)
   const [data, setData] = useState(null)
 
   useEffect(() => {
